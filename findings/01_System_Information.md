@@ -8,7 +8,7 @@ The purpose of this phase was to identify the operating system, hostname, networ
 
 ## Commands Executed
 
-```bash
+```bash 
 hostnamectl
 hostname -I
 ip a
